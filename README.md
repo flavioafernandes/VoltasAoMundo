@@ -5,3 +5,5 @@ IHC Project
 - Flávio Fernandes
 - Guilherme Pontes
 - Tomás Martins
+
+Made with Flutter 
